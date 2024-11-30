@@ -1,7 +1,6 @@
 # Snake - A Java Recreation of the Classic Game
 
-View on YouTube
-https://www.youtube.com/watch?v=aWbHFWyGI48
+[View on YouTube](https://www.youtube.com/watch?v=aWbHFWyGI48)
 
 ## Description
 A game of snake using Java. The game features a fully functional GUI with customizable game speed, and sound.
